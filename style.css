@@ -1,0 +1,25 @@
+body{
+   
+}
+.btn-vert {
+    background-color: #009966;
+}
+.fond-gris {
+    background-color: #F4F6F5;
+}
+.oriental-pattern {
+    background-image: 
+      radial-gradient(circle at 20% 80%, rgba(5, 150, 105, 0.03) 0%, transparent 50%),
+      radial-gradient(circle at 80% 20%, rgba(5, 150, 105, 0.03) 0%, transparent 50%);
+  }
+.img-fond{
+
+    background-image:url(img/img/img-bg.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 40vh;
+
+}
+
+  
