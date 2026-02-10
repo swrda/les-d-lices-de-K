@@ -13,13 +13,40 @@ body{
       radial-gradient(circle at 80% 20%, rgba(5, 150, 105, 0.03) 0%, transparent 50%);
   }
 .img-fond{
-
+  
     background-image:url(img/img/img-bg.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     height: 40vh;
+   
 
 }
 
-  
+ion-icon{
+    font-size : 40px;
+    color:#009966;
+    background-color:#D0FAE5;
+    padding: 8px;
+    border-radius: 50px;
+}
+
+.notre-histoire{
+    background-color: #D0FAE5;
+    padding: 60px 0;
+}
+
+.notre-histoire img {
+    width: 100%; 
+    height: auto;      
+    border-radius: 10px; 
+  }
+    
+ .liste-avantages ion-icon{
+    font-size: small;
+    color: #009966;
+    background-color: #009966;
+  }
+  ul {
+    list-style-type: none;
+  }
