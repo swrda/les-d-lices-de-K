@@ -23,7 +23,7 @@ body{
 
 }
 
-ion-icon{
+.savoir-faire ion-icon{
     font-size : 40px;
     color:#009966;
     background-color:#D0FAE5;
@@ -44,9 +44,20 @@ ion-icon{
     
  .liste-avantages ion-icon{
     font-size: small;
-    color: #009966;
+    color: white;
     background-color: #009966;
+    margin-right: 10px;
   }
   ul {
     list-style-type: none;
   }
+
+  .avis ion-icon{
+    font-size : 20px;
+    color:#009966;
+    border-radius: 50px;
+}
+.avis {
+    background-color: #D0FAE5;
+    border-radius: 20px;
+}
